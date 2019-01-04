@@ -34,10 +34,10 @@ Once we have downloaded the file (.exe), we can simply double-click it, and foll
 Once we have downloaded the file(.dmg) , we can simply double-click it, drag the icon into the applications wizard, and follow the instruction wizard. [Video guide](https://developer.android.com/studio/videos/studio-install-mac.mp4). After installation you may delete the .dmg file.
 
 
-#### Testing your app
+## Testing your app
 There are 2 ways you can test your app in android studio. You can either use an android phone and test it there, or use an emulator.
 
-##### Android phone
+### Android phone
 First of all, you need to enable usb debugging on the phone, which needs developer options.
 [Instructions.](https://developer.android.com/studio/debug/dev-options)
 Then, with enabled USB debugging, connect the phone through usb to the computer, and on Android Studio, click run, ![](res/2.png) , choose the android mobile phone, and press ok.
@@ -51,7 +51,7 @@ Then, with enabled USB debugging, connect the phone through usb to the computer,
 
 
 
-##### Emulator
+### Emulator
 To run on an emulated phone, you need to first create it. Mind you, that the more recent and powerful the phone you choose to emulate is,  the slower it will run on Android Studio.
 
 On Android Studio, start by clicking run, ![](res/2.png) , and select the "Create New Virtual Device" option on the wizard that appears:
