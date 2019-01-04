@@ -42,7 +42,8 @@ First of all, you need to enable usb debugging on the phone, which needs develop
 [Instructions.](https://developer.android.com/studio/debug/dev-options)
 Then, with enabled USB debugging, connect the phone through usb to the computer, and on Android Studio, click run, ![](res/2.png) , choose the android mobile phone, and press ok.
 
-![](res/3.png) (a pop up might appear for you to install the sdk platform for your phone, in which case, you need to install it.)
+![](res/3.png)
+(a pop up might appear for you to install the sdk platform for your phone, in which case, you need to install it.)
 
 ##### Emulator
 To run on an emulated phone, you need to first create it. Mind you, that the more recent and powerful the phone you choose to emulate is,  the slower it will run on Android Studio.
