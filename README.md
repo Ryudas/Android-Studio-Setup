@@ -1,6 +1,3 @@
-# IO3040-Software-Workshop-0
-
-# Workshop 0
 ## Android Studio and testing your App
 
 
